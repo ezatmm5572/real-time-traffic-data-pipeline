@@ -25,8 +25,8 @@ Data Source → Kafka → PySpark → PostgreSQL → Dashboard
 Real-time traffic monitoring and congestion analysis.
 
 ## Author
-Ezat Mohamed Ezat
-Mohamed Atef mohamed Gadalla
-Abdulrahman Hamza Abdelfattah Elkady
-Mohsen khaled
-yaseen ayman saber
+- Ezat Mohamed Ezat
+- Mohamed Atef mohamed Gadalla
+- Abdulrahman Hamza Abdelfattah Elkady
+- Mohsen khaled
+- yaseen ayman saber
